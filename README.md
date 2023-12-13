@@ -1,8 +1,8 @@
-# CSV Upload 
+# Amazon Home Page Clone
 
 A simplified Amazon clone using HTML and CSS, replicating the key elements of the e-commerce giant's interface. Emulated navigational features, product displays, and detailed item pages to illustrate the basics of web development with HTML and CSS.
 
-## Technologiy
+## Technology
    > HTML and CSS
 
 
